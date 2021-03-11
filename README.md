@@ -2,6 +2,8 @@
 
 # PyBank
 
+The same notebook contains two solutions to the Homework.   Please scroll down to view the 2nd solution.
+
 ## Solution 1 with FOR LOOP
 
 Resolved the homework using a for loop, results output to stdout and file named results.txt
