@@ -6,11 +6,11 @@ The same notebook contains two solutions to the Homework.   Please scroll down t
 
 ## Solution 1 with FOR LOOP
 
-Resolved the homework using a for loop, results output to stdout and file named results.txt
+Resolved the homework using a for loop, results output to stdout and redirected stdout to file named results.txt
 
 ## Solution 2 with PANDAS
 
-Resolved the homework using pandas and reduced code by 24.5% compared to solution 1, results output to stdout file named results2.txt
+Resolved the homework using pandas and reduced code by 24.5% compared to solution 1, results output to stdout and redirected stdout to file named results2.txt
 
 
 # PyRamen
